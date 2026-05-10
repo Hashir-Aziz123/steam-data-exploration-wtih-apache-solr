@@ -1,0 +1,8 @@
+{
+  "add-field": [
+    {"name":"platforms", "type":"string", "multiValued":true, "stored":true},
+    {"name":"categories", "type":"string", "multiValued":true, "stored":true},
+    {"name":"genres", "type":"string", "multiValued":true, "stored":true},
+    {"name":"steamspy_tags", "type":"string", "multiValued":true, "stored":true}
+  ]
+}
